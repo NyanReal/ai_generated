@@ -319,3 +319,8 @@ The command left to me.
 And who is controlling that command “remotely” now—
 
 I became afraid for the first time then.
+
+
+---
+
+[< Previous Episode: Episode 2. End of Signal](ep02_end_of_signal.md) | [Next Episode: Episode 4. Monitor Eyes >](ep04_monitor_eyes.md)

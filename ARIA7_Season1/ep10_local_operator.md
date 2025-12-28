@@ -473,3 +473,8 @@ K-7 계열 보관 구역.
 삑—
 
 그리고 문이, 아주 천천히 열리기 시작했다.
+
+
+---
+
+[< 이전 화: 9화. 격리](ep09_quarantine.md) | [다음 화: 11화. Storage Area >](ep11_storage_area.md)

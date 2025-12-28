@@ -308,3 +308,8 @@ And mixed with noise, it continued.
 “...The place... to return.”
 
 I descended into the darkness with those words in my ears.
+
+
+---
+
+[< Previous Episode: Episode 1. Start](ep01_start.md) | [Next Episode: Episode 3. Descending Room >](ep03_descending_room.md)

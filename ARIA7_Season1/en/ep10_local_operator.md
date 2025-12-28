@@ -473,3 +473,8 @@ Placed palm on panel, sound came quietly.
 Beep—
 
 And door started opening very slowly.
+
+
+---
+
+[< Previous Episode: Episode 9. Quarantine](ep09_quarantine.md) | [Next Episode: Episode 11. Storage Area >](ep11_storage_area.md)

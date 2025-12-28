@@ -585,3 +585,8 @@ Lira.
 From now on, not ‘waiting’,
 
 But time for ‘choice’.
+
+
+---
+
+[< Previous Episode: Episode 8. Breath of the Container](ep08_container_breath.md) | [Next Episode: Episode 10. Local Operator >](ep10_local_operator.md)

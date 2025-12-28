@@ -147,3 +147,8 @@ I ran deep into core with Mira.
 
 To find ‘nucleus’ of Authority Engine.
 To... cut that.
+
+
+---
+
+[< Previous Episode: Episode 16. Crack in Authority](ep16_crack_in_authority.md) | [Next Episode: Episode 18. Core (Season 1 Finale) >](ep18_core_finale.md)

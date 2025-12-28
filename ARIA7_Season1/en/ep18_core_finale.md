@@ -169,3 +169,8 @@ Outside, metal footsteps approached.
 And that voice laughed beyond the door.
 
 “Finally... let's play together, successors.”
+
+
+---
+
+[< Previous Episode: Episode 17. Recovery](ep17_recovery.md)

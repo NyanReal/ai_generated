@@ -394,3 +394,8 @@ If I open, do I protect myself.
 I looked at container lock.
 
 And... reached out.
+
+
+---
+
+[< Previous Episode: Episode 6. Handshake](ep06_handshake.md) | [Next Episode: Episode 8. Breath of the Container >](ep08_container_breath.md)

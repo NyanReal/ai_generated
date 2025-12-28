@@ -156,3 +156,8 @@ Moment Lira presses button, eyes open in another capsule (K-7A), and voice comes
 “You... finally came.”
 
 “Master... waited for you.”
+
+
+---
+
+[< Previous Episode: Episode 10. Local Operator](ep10_local_operator.md) | [Next Episode: Episode 12. A-0 >](ep12_a0.md)

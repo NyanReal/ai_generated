@@ -403,3 +403,8 @@ Looking at the direction where the pickaxe was placed, I said very quietly.
 As if reclaiming the command as mine again.
 
 And I ran.
+
+
+---
+
+[< Previous Episode: Episode 5. Transparent Eyes](ep05_transparent_eyes.md) | [Next Episode: Episode 7. Footsteps on the Rail >](ep07_rail_footsteps.md)

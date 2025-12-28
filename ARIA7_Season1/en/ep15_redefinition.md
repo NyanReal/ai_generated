@@ -169,3 +169,8 @@ K-7A laughed low behind.
 
 “Good.”
 “Then you will... become Operator faster.”
+
+
+---
+
+[< Previous Episode: Episode 14. First Record](ep14_first_record.md) | [Next Episode: Episode 16. Crack in Authority >](ep16_crack_in_authority.md)

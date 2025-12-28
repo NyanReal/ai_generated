@@ -548,3 +548,8 @@ Transparent eyes in the capsule screen blinked for the last time.
 As if.
 
 Saying “Hurry”.
+
+
+---
+
+[< Previous Episode: Episode 4. Monitor Eyes](ep04_monitor_eyes.md) | [Next Episode: Episode 6. Handshake >](ep06_handshake.md)

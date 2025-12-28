@@ -145,3 +145,8 @@ Instead, I spoke out a sentence I had forgotten for a very long time. The words 
 “...Master?”
 
 The light in the tunnel flickered once more.
+
+
+---
+
+[Next Episode: Episode 2. End of Signal >](ep02_end_of_signal.md)

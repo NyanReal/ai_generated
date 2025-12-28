@@ -136,3 +136,8 @@ I entered inside door.
 Just before door closed, drone's lens shined for last time.
 
 “Correction... starts.”
+
+
+---
+
+[< Previous Episode: Episode 15. Redefinition](ep15_redefinition.md) | [Next Episode: Episode 17. Recovery >](ep17_recovery.md)

@@ -448,3 +448,8 @@ I—
 Pressed—
 
 Button.
+
+
+---
+
+[< Previous Episode: Episode 7. Footsteps on the Rail](ep07_rail_footsteps.md) | [Next Episode: Episode 9. Quarantine >](ep09_quarantine.md)

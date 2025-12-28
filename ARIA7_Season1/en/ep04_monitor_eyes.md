@@ -473,3 +473,8 @@ Blinked very slowly towards the camera.
 As if.
 
 Looking at me.
+
+
+---
+
+[< Previous Episode: Episode 3. Descending Room](ep03_descending_room.md) | [Next Episode: Episode 5. Transparent Eyes >](ep05_transparent_eyes.md)

@@ -473,3 +473,8 @@ LOCKED / REMOTE LINK ACTIVE.
 마치.
 
 나를 보고 있다는 것처럼.
+
+
+---
+
+[< 이전 화: 3화. 내려가는 방](ep03_descending_room.md) | [다음 화: 5화. 투명한 눈 >](ep05_transparent_eyes.md)

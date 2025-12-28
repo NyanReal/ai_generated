@@ -175,3 +175,8 @@ Then K-7A's expression hardened for the first time.
 “That... was my line.”
 
 And he started approaching me slowly.
+
+
+---
+
+[< Previous Episode: Episode 13. Passenger](ep13_passenger.md) | [Next Episode: Episode 15. Redefinition >](ep15_redefinition.md)
