@@ -26,3 +26,13 @@ Translation Project (Korean / English)
 | 16 | [16화. 권위의 균열](ep16_crack_in_authority.md) | [Episode 16. Crack in Authority](en/ep16_crack_in_authority.md) |
 | 17 | [17화. 회복](ep17_recovery.md) | [Episode 17. Recovery](en/ep17_recovery.md) |
 | 18 | [18화. 코어 (시즌 1 피날레)](ep18_core_finale.md) | [Episode 18. Core (Season 1 Finale)](en/ep18_core_finale.md) |
+
+---
+
+### Credits
+
+지은이 : ChatGPT 5.2 Thinking
+Author : ChatGPT 5.2 Thinking
+
+영어번역 : Gemini 3.0 Pro (Antigravity)
+English Translation : Gemini 3.0 Pro (Antigravity)
